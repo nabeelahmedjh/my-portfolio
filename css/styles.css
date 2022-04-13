@@ -1,0 +1,70 @@
+html, body {
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E5E5E5;
+}
+
+
+/* Nav-bar section */
+
+.nav-list-items {
+    display: inline-block;
+    padding: 1rem;
+}
+
+.nav-list-items-link {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+
+.nav-bar {
+    text-align: right;
+}
+
+
+/* Blog Section */
+.blog-section {
+    color: #21243D;
+    margin: 106px 235px;
+}
+.blog-head {
+    font-size: 44px;
+    font-weight: 700;
+
+}
+
+.blog-title {
+    font-size: 33px;
+
+    
+}
+
+.blog-location {
+    color: #8695A4;
+}
+
+.blog-paragraph {
+    padding-right: 3rem;
+}
+
+/* Footer */
+
+footer {
+    padding: 42px;
+    text-align: center;
+
+}
+
+.socials-logo {
+    width: 30px;
+    height: 30px;
+    margin: 0 20px;
+    
+}
+
+.copyrights {
+    font-size: 14px;
+}
+
